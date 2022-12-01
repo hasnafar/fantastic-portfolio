@@ -11,6 +11,7 @@ The "My Work" Section provides links to current projects I have worked on as wel
 The page was adapted for multiple screen sizes. 
 
 # Screenshots
+![](./public/images/ss-fantastic-portfolio.png)
 
 # Links
 Deployed URL:https://hasnafar.github.io/fantastic-portfolio/

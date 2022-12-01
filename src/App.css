@@ -120,7 +120,7 @@ li {
 .avatar {
     height: 400px;
     margin-bottom: 25px;
-    /* background-image: url("../images/IMG_6565.jpeg"); */
+    background-image: url("../public/IMG_6565.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -180,31 +180,31 @@ li {
     border: solid 5px var(--lightcyan);
     position: relative;
 }
-/* 
+
 .item1 {
     grid-area: header;
-    background-image: url("../images/codingbanner.jpg");
+    background-image: url("../public/codingbanner.jpg");
     height: 500px;
 }
 
 .item2 {
     grid-area: main;
-    background-image: url("../images/Calendar-Banner.jpeg");
+    background-image: url("../public/Calendar-Banner.jpeg");
 }
 
 .item3 {
     grid-area: right;
-    background-image: url("../images/countdown timer.png");
+    background-image: url("../public/countdown timer.png");
 }
 .item4 {
     grid-area: main2;
-    background-image: url("../images/Calculator-Banner.png");
+    background-image: url("../public/Calculator-Banner.png");
 }
 
 .item5 {
     grid-area: right2;
-    background-image: url("../images/currency-banner.jpeg");
-} */
+    background-image: url("../public/currency-banner.jpeg");
+}
 
 .item1:hover, .item2:hover, .item3:hover, .item4:hover, .item5:hover {
     opacity: 0.5;   

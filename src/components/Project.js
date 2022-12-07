@@ -32,9 +32,9 @@ class Project extends Component{
 
                    
                     <li class="item3">
-                         <summary class="work-text">
-                                <h5>Placeholder</h5>
-                                <p>Placeholder</p>
+                         <summary class="work-text" href="https://mood-ring.herokuapp.com/">
+                                <h5>Mood Ring</h5>
+                                <p>JS/MERN</p>
                          </summary>
                     </li>
 

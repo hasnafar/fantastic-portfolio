@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fantastic-portfolio/static/css/main.e8990eea.css",
-    "main.js": "/fantastic-portfolio/static/js/main.961408fa.js",
+    "main.js": "/fantastic-portfolio/static/js/main.11aacdf3.js",
     "static/js/787.cfe1c559.chunk.js": "/fantastic-portfolio/static/js/787.cfe1c559.chunk.js",
     "static/media/Calculator-Banner.png": "/fantastic-portfolio/static/media/Calculator-Banner.3e424858fa5c93cee2e2.png",
     "static/media/Calendar-Banner.jpeg": "/fantastic-portfolio/static/media/Calendar-Banner.263c65ffc8bb0d1dc9fa.jpeg",
@@ -10,11 +10,11 @@
     "static/media/currency-banner.jpeg": "/fantastic-portfolio/static/media/currency-banner.2ca06b1a21aa78d20870.jpeg",
     "index.html": "/fantastic-portfolio/index.html",
     "main.e8990eea.css.map": "/fantastic-portfolio/static/css/main.e8990eea.css.map",
-    "main.961408fa.js.map": "/fantastic-portfolio/static/js/main.961408fa.js.map",
+    "main.11aacdf3.js.map": "/fantastic-portfolio/static/js/main.11aacdf3.js.map",
     "787.cfe1c559.chunk.js.map": "/fantastic-portfolio/static/js/787.cfe1c559.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8990eea.css",
-    "static/js/main.961408fa.js"
+    "static/js/main.11aacdf3.js"
   ]
 }
